@@ -4,7 +4,7 @@ _Reid Lawson_
 
 [High School](https://github.com/rlawson8/Github-repo/blob/master/Marquette)
 
-[Climbing]()
+[Climbing](https://github.com/rlawson8/Github-repo/blob/master/Climbing)
 
 [Orchestra](https://github.com/rlawson8/Github-repo/blob/master/Orchestra)
 
