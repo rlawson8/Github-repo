@@ -7,7 +7,7 @@
   fact = "This is where I found my love for coding"
   print(fact)
 ```
- 
+I also started learning HTML there and have come a long way. This is my take on the fizzbuzz program I wrote for class earlier this year.
 ```html
 <!DOCTYPE html>
 <html>
