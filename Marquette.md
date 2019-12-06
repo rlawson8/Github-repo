@@ -8,7 +8,7 @@
   print(fact)
 ```
  
-```
+```html
 <!DOCTYPE html>
 <html>
 <head>
