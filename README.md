@@ -2,7 +2,7 @@
 ## Here are some things about me
 _Reid Lawson_
 
-[High School]()
+[High School](https://github.com/rlawson8/Github-repo/blob/master/Marquette)
 
 [Climbing]()
 
