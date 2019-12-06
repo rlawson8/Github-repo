@@ -5,7 +5,7 @@ and some here at college whenever I can find the time.
 I've traveled a lot too. Holy Boulders in Illinois
 is a great place to go with routes for beginners
 as well as advanced climbers. I've also been to 
-[Earth Treks](https://www.earthtreksclimbing.com/) in Colorado. It is the largest climbing gym
+[Earth Treks](https://www.earthtreksclimbing.com/) in Colorado which is the largest climbing gym
 in America. While I was there I also got the chance
 to do some climbing out doors at various parks.
 
