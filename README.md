@@ -6,7 +6,7 @@ _Reid Lawson_
 
 [Climbing](https://github.com/rlawson8/Github-repo/blob/master/Climbing)
 
-[Orchestra](https://github.com/rlawson8/Github-repo/blob/master/Orchestra)
+[Orchestra](https://github.com/rlawson8/Github-repo/blob/master/Orchestra.md)
 
 [Tae-Kwon-Do](https://github.com/rlawson8/Github-repo/blob/master/TKD)
 
