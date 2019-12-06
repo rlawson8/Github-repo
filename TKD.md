@@ -23,3 +23,5 @@ The belt rankings are as follows at the school
 1. high red 
 1. recommendation 
 1. black
+
+It took me roughly for years to get each black belt.
