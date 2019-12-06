@@ -8,7 +8,7 @@ _Reid Lawson_
 
 [Orchestra](https://github.com/rlawson8/Github-repo/blob/master/Orchestra.md)
 
-[Tae-Kwon-Do](https://github.com/rlawson8/Github-repo/blob/master/TKD)
+[Tae-Kwon-Do](https://github.com/rlawson8/Github-repo/blob/master/TKD.md)
 
 
 
